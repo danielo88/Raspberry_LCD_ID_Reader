@@ -1,5 +1,6 @@
 # lcd_id
-Read Registers on MCUFRIEND UNO shield for WiringPi   
+Read Registers on MCUFRIEND UNO shield for WiringPi.   
+
 By the same appearance,mcufriend has a lot of variations.   
 http://domoticx.com/arduino-shield-2-4-tft-lcd-touch/
 
