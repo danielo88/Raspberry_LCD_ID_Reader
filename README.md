@@ -1,5 +1,5 @@
 # lcd_id
-Read Registers on MCUFRIEND UNO shield for WiringPi   
+Read Registers on MCUFRIEND ILITEK UNO shield for WiringPi   
 
 ----
 
