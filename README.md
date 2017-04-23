@@ -30,6 +30,7 @@ cc -o lcd_id lcd_id.c -lwiringPi
 sudo ./lcd_id
 
 ----
+reg(0x0000) is driver code.
 
 ![lcd_id-1](https://cloud.githubusercontent.com/assets/6020549/25310847/1fa8da18-282a-11e7-993a-154b8800e987.jpg)
 
