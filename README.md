@@ -24,6 +24,8 @@ Wirering
 |GND|--|GND|
 
 build   
+git clone https://github.com/nopnop2002/lcd_id   
+cd lcd_id   
 cc -o lcd_id lcd_id.c -lwiringPi   
 sudo ./lcd_id
 
