@@ -25,6 +25,7 @@ Wirering
 
 build   
 cc -o lcd_id lcd_id.c -lwiringPi   
+sudo ./lcd_id
 
 ----
 
