@@ -31,7 +31,6 @@ sudo ./lcd_id
 
 ----
 
-Many drivers can distinguish in 0x0000 regiter.   
 The following indication is an example of ILI9325.
 
 ![lcd_id-1](https://cloud.githubusercontent.com/assets/6020549/25310847/1fa8da18-282a-11e7-993a-154b8800e987.jpg)
@@ -39,5 +38,6 @@ The following indication is an example of ILI9325.
 
 ----
 
+Many drivers can distinguish in 0x0000 regiter.   
 There is typical driver ID below.   
 http://domoticx.com/arduino-library-tft-lcd-shield/
