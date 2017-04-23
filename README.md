@@ -1,5 +1,11 @@
 # lcd_id
 Read Registers on MCUFRIEND UNO shield for WiringPi   
+By the same appearance,mcufriend has a lot of variations.   
+http://domoticx.com/arduino-shield-2-4-tft-lcd-touch/
+
+Many drivers can distinguish in 0x0000 register.   
+There is typical driver ID below.   
+http://domoticx.com/arduino-library-tft-lcd-shield/
 
 ----
 
@@ -35,9 +41,3 @@ The following indication is an example of ILI9325.
 
 ![lcd_id-1](https://cloud.githubusercontent.com/assets/6020549/25310847/1fa8da18-282a-11e7-993a-154b8800e987.jpg)
 
-
-----
-
-Many drivers can distinguish in 0x0000 register.   
-There is typical driver ID below.   
-http://domoticx.com/arduino-library-tft-lcd-shield/
