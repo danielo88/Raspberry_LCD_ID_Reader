@@ -8,7 +8,6 @@
 #define LCD_WR 10
 #define LCD_RD 11
 
-#ifndef SR595
 #define LCD_D0 21
 #define LCD_D1 22
 #define LCD_D2 23
@@ -17,7 +16,6 @@
 #define LCD_D5 26
 #define LCD_D6 27
 #define LCD_D7 28
-#endif
 
 void readReg(uint16_t reg, uint8_t n, char *msg);
 void lcdInit();
