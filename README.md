@@ -1,7 +1,7 @@
 # lcd_id
 Read Registers on MCUFRIEND UNO shield for WiringPi.   
 
-By the same appearance,mcufriend has a lot of variations.   
+It's the same outward appearance, but mcufriend has a lot of variations.   
 http://domoticx.com/arduino-shield-2-4-tft-lcd-touch/
 
 Many drivers can distinguish in 0x0000 register.   
