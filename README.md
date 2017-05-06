@@ -42,5 +42,10 @@ sudo ./lcd_id
 
 The following indication is an example of ILI9325.
 
-![lcd_id-1](https://cloud.githubusercontent.com/assets/6020549/25310847/1fa8da18-282a-11e7-993a-154b8800e987.jpg)
+![ili9325](https://cloud.githubusercontent.com/assets/6020549/25771292/e71459de-3288-11e7-9c46-7aa84469b24c.jpg)
+
+
+The following indication is an example of ILI9342.
+
+![ili9342](https://cloud.githubusercontent.com/assets/6020549/25771295/ff40144e-3288-11e7-84fc-9ceebcd2b1ed.jpg)
 
