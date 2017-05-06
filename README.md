@@ -8,8 +8,6 @@ Many drivers can distinguish in 0x0000 register.
 There is typical driver ID below.   
 http://domoticx.com/arduino-library-tft-lcd-shield/
 
-It's possible to use some of TFT in Rpi/Opi.   
-
 ----
 
 Wirering   
