@@ -17,8 +17,8 @@ Wirering
 |LCD_RST|--|Pin#7|
 |LCD_CS|--|Pin#3|
 |LCD_RS|--|Pin#5|
-|LCD_WR|--|Pin#24|
-|LCD_RD|--|Pin#26|
+|LCD_WR|--|Pin#26|
+|LCD_RD|--|Pin#28|
 |LCD_D0|--|Pin#29|
 |LCD_D1|--|Pin#31|
 |LCD_D2|--|Pin#33|

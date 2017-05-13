@@ -5,8 +5,8 @@
 #define LCD_RST 7
 #define LCD_CS  8
 #define LCD_RS  9
-#define LCD_WR 10
-#define LCD_RD 11
+#define LCD_WR 11
+#define LCD_RD 31
 
 #define LCD_D0 21
 #define LCD_D1 22
