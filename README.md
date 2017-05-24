@@ -38,17 +38,21 @@ sudo ./lcd_id
 
 ----
 
-The following indication is an example of ILI9325.
+example of ILI9325.
 
 ![ili9325](https://cloud.githubusercontent.com/assets/6020549/25771292/e71459de-3288-11e7-9c46-7aa84469b24c.jpg)
 
 
-The following indication is an example of ILI9341.
+example of ILI9341.
 
 ![ili9341](https://cloud.githubusercontent.com/assets/6020549/25948556/f94de20a-368e-11e7-94ad-a83f1445a8a6.jpg)
 
 
-The following indication is an example of ILI9342.
+example of ILI9342.
 
 ![ili9342](https://cloud.githubusercontent.com/assets/6020549/25771295/ff40144e-3288-11e7-84fc-9ceebcd2b1ed.jpg)
 
+
+example of ILI9481.
+
+![ili9481](https://cloud.githubusercontent.com/assets/6020549/26405677/fe757404-40d0-11e7-9bc5-a65d61fb86bb.jpg)
