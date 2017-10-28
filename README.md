@@ -34,10 +34,16 @@ Wirering
 \*When a regulator(It's often AMS1117) is mounted on the back, it's operated 5V.   
 \*When a regulator is NOT mounted on the back, it's operated 3.3V.   
 
-build   
+How to build(for Debian)   
 git clone https://github.com/nopnop2002/lcd_id   
 cd lcd_id   
 cc -o lcd_id lcd_id.c -lwiringPi   
+sudo ./lcd_id
+
+How to build(for Ubuntu)   
+git clone https://github.com/nopnop2002/lcd_id   
+cd lcd_id   
+cc -o lcd_id lcd_id.c -lwiringPi -lpthread   
 sudo ./lcd_id
 
 ----
