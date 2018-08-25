@@ -10,7 +10,7 @@ http://domoticx.com/arduino-library-tft-lcd-shield/
 
 ----
 
-Wirering   
+# Wirering   
 
 |TFT||Rpi/Opi|
 |:-:|:-:|:-:|
@@ -34,13 +34,9 @@ Wirering
 \*When a regulator(It's often AMS1117) is mounted on the back, it's operated 5V.   
 \*When a regulator is NOT mounted on the back, it's operated 3.3V.   
 
-How to build(for Debian)   
-git clone https://github.com/nopnop2002/lcd_id   
-cd lcd_id   
-cc -o lcd_id lcd_id.c -lwiringPi   
-sudo ./lcd_id
+----
 
-How to build(for Ubuntu)   
+# How to build
 git clone https://github.com/nopnop2002/lcd_id   
 cd lcd_id   
 cc -o lcd_id lcd_id.c -lwiringPi -lpthread   
