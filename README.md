@@ -4,6 +4,8 @@ Read Registers on MCUFRIEND UNO shield for WiringPi.
 It's the same outward appearance, but mcufriend has a lot of variations.   
 http://domoticx.com/arduino-shield-2-4-tft-lcd-touch/
 
+And Sailor's information makes a mistake in most cases.   
+
 Many drivers can distinguish in 0x0000 register.   
 There is typical driver ID below.   
 http://domoticx.com/arduino-library-tft-lcd-shield/
@@ -62,3 +64,9 @@ example of ILI9342.
 example of ILI9481.
 
 ![ili9481](https://cloud.githubusercontent.com/assets/6020549/26405677/fe757404-40d0-11e7-9bc5-a65d61fb86bb.jpg)
+
+
+example of spfd5408
+
+![spfd5408](https://user-images.githubusercontent.com/6020549/52566340-da843380-2e4c-11e9-9de3-8160ce609e00.jpg)
+
