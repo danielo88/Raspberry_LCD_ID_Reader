@@ -46,7 +46,7 @@ sudo ./lcd_id
 
 ----
 
-example of ILI9325.
+- example of ILI9325   
 
 ![ili9325](https://cloud.githubusercontent.com/assets/6020549/25771292/e71459de-3288-11e7-9c46-7aa84469b24c.jpg)
 
