@@ -1,4 +1,4 @@
-# lcd_id
+# Raspberry_LCD_ID_Reader
 Read Registers on MCUFRIEND UNO shield for WiringPi.   
 
 It's the same outward appearance, but mcufriend has a lot of variations.   
