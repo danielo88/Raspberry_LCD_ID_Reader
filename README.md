@@ -39,8 +39,8 @@ http://domoticx.com/arduino-library-tft-lcd-shield/
 ----
 
 # How to build
-git clone https://github.com/nopnop2002/lcd_id   
-cd lcd_id   
+git clone https://github.com/nopnop2002/Raspberry_LCD_ID_Reader   
+cd Raspberry_LCD_ID_Reader   
 cc -o lcd_id lcd_id.c -lwiringPi -lpthread   
 sudo ./lcd_id
 
@@ -52,25 +52,25 @@ example of ILI9325.
 
 ----
 
-example of ILI9341.
+- example of ILI9341   
 
 ![ili9341](https://cloud.githubusercontent.com/assets/6020549/25948556/f94de20a-368e-11e7-94ad-a83f1445a8a6.jpg)
 
 ----
 
-example of ILI9342.
+- example of ILI9342   
 
 ![ili9342](https://cloud.githubusercontent.com/assets/6020549/25771295/ff40144e-3288-11e7-84fc-9ceebcd2b1ed.jpg)
 
 ----
 
-example of ILI9481.
+- example of ILI9481   
 
 ![ili9481](https://cloud.githubusercontent.com/assets/6020549/26405677/fe757404-40d0-11e7-9bc5-a65d61fb86bb.jpg)
 
 ----
 
-example of spfd5408
+- example of spfd5408   
 
 ![spfd5408](https://user-images.githubusercontent.com/6020549/52566340-da843380-2e4c-11e9-9de3-8160ce609e00.jpg)
 
